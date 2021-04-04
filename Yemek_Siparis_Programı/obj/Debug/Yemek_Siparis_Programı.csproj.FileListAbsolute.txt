@@ -1,0 +1,6 @@
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\bin\Debug\Yemek_Siparis_Programı.exe.config
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\bin\Debug\Yemek_Siparis_Programı.exe
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\bin\Debug\Yemek_Siparis_Programı.pdb
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\obj\Debug\Yemek_Siparis_Programı.csprojAssemblyReference.cache
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\obj\Debug\Yemek_Siparis_Programı.exe
+C:\Users\hando\Desktop\pg\Nesneye dayalı programlama\Yemek_Siparis_Programı\obj\Debug\Yemek_Siparis_Programı.pdb
